@@ -1,4 +1,4 @@
-# Hi, I'm YourName 👋  
+# Hi, I'm Saptak Nandi 👋  
 ### Web Developer | Software Developer  
 
 🚀 Turning ideas into scalable solutions  
@@ -26,8 +26,8 @@
 ---
 
 ## 🔥 GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)](https://git.io/streak-stats)  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saputhebroker&theme=tokyonight)](https://git.io/streak-stats)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saputhebroker&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
