@@ -5,7 +5,7 @@
 
 🚀 Turning ideas into scalable solutions  
 🌱 Currently mastering Web Development & AI  
-💬 Ask me about Web, AI, or Blockchain  
+💬 Ask me about Web, AI  
 🎵 Music fuels my creativity  
 
 ---
@@ -13,7 +13,7 @@
 ## 🧠 About Me  
 - Computer Science Student  
 - Passionate about building products from scratch  
-- Exploring AI/ML, Blockchain, and Web3  
+- Exploring AI/ML and Web3  
 - Focused on learning, building & improving  
 
 ---
