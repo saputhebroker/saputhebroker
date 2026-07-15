@@ -1,4 +1,6 @@
-# Hi, I'm Saptak Nandi 👋  
+# Hi, I'm Saptak Nandi 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=435&lines=I+am+ss)](https://git.io/typing-svg)
+
 ### Web Developer | Software Developer  
 
 🚀 Turning ideas into scalable solutions  
